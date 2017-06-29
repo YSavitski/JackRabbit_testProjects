@@ -60,7 +60,6 @@ public class SecondHop {
 
 
         while (nodes.hasNext()){
-            //printNodeInfo(nodes.nextNode());
             iterateNodes(nodes.nextNode());
         }
 
